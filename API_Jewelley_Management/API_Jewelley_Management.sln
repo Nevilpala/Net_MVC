@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Jewelley_Management", "API_Jewelley_Management.csproj", "{10A9ECD8-99EC-4206-A612-3553C4C5AE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A9ECD8-99EC-4206-A612-3553C4C5AE56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A9ECD8-99EC-4206-A612-3553C4C5AE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A9ECD8-99EC-4206-A612-3553C4C5AE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A9ECD8-99EC-4206-A612-3553C4C5AE56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F57574D-E14D-408E-93A2-0F4DC85F9B08}
+	EndGlobalSection
+EndGlobal
